@@ -40,7 +40,7 @@ Before configuring your AI client, you need a Favoriot API Key:
 
 ---
 
-## 3. Configuration by AI Platform
+## 3. Configuration by AI Agent Platform
 
 Below are the configuration formats for the most popular AI agent platforms. Replace `/absolute/path/to/favoriot-mcp-proxy` with the actual path to the downloaded binary, and insert your `FAVORIOT_API_KEY`.
 
