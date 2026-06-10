@@ -136,12 +136,3 @@ Below are the configuration formats for the most popular AI agent platforms. Rep
 
 ---
 
-## 3. Passing Custom Arguments
-
-If your remote Favoriot MCP server is hosted at a custom URL or port (and not the default), you can pass the remote URL to the proxy using the `args` array in your configuration file.
-
-Example:
-```json
-      "command": "/absolute/path/to/favoriot-mcp-proxy",
-      "args": ["--remote-url", "https://mcp.yourdomain.com/sse"],
-```
