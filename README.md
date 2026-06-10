@@ -31,7 +31,16 @@ Open your Terminal and run these two commands (replace `/path/to/` with your act
 
 ---
 
-## 2. Configuration by AI Platform
+## 2. Get a Favoriot API Key
+
+Before configuring your AI client, you need a Favoriot API Key:
+
+1. Log in to or sign up at the [Favoriot Platform](https://platform.favoriot.com).
+2. Copy your **API Key** (see the [Security Tutorial](https://platform.favoriot.com/tutorial/v2/#security) for detailed instructions).
+
+---
+
+## 3. Configuration by AI Platform
 
 Below are the configuration formats for the most popular AI agent platforms. Replace `/absolute/path/to/favoriot-mcp-proxy` with the actual path to the downloaded binary, and insert your `FAVORIOT_API_KEY`.
 
@@ -135,4 +144,3 @@ Below are the configuration formats for the most popular AI agent platforms. Rep
 ```
 
 ---
-
